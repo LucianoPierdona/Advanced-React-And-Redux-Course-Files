@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin: 0 10px;
+    transition: color 0.2s;
+}
+.header a:hover {
+    color: #7ca500;
+}
